@@ -1,0 +1,7 @@
+Dependências
+
+requests
+pandas
+matplotlib
+jupyter
+
